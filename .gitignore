@@ -1,0 +1,11 @@
+# Exclude everything by default
+*
+
+# Include specifically what we want
+!.gitignore
+!README.md
+!index.html
+!index.js
+!main.css
+
+!assets/
